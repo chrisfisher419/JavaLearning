@@ -19,7 +19,7 @@ public class Serialization
 
 	public static void main(String[] args)
 	{
-		Demo object = new Demo(1, "geeksforgeeks");
+		Demo object = new Demo(1, "test");
 		String filename = "file.ser";
 		
 		///Serialization
